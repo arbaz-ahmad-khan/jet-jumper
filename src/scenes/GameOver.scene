@@ -1,0 +1,127 @@
+{
+    "id": "f57a42cf-cb20-41a3-b1f1-afc904bdc264",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "GameOver",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "7f06c83d-2fb0-4156-a199-e4d5a0b5eb9e",
+            "label": "star",
+            "texture": {
+                "key": "Star"
+            },
+            "x": 365,
+            "y": 1500
+        },
+        {
+            "type": "Image",
+            "id": "a28cca8e-a56e-476d-b0c8-d45170010f33",
+            "label": "star_1",
+            "texture": {
+                "key": "Star"
+            },
+            "x": 715,
+            "y": 1500
+        },
+        {
+            "type": "Image",
+            "id": "6c767bff-27c6-48a8-8030-98e19578e17b",
+            "label": "star_2",
+            "texture": {
+                "key": "Star"
+            },
+            "x": 345,
+            "y": 1600
+        },
+        {
+            "type": "Image",
+            "id": "570f5bd3-edc2-4977-9e85-91fc21c2d68e",
+            "label": "star_3",
+            "texture": {
+                "key": "Star"
+            },
+            "x": 735,
+            "y": 1600
+        },
+        {
+            "type": "Text",
+            "id": "49d03724-94c4-4a47-8b20-54b7842f477c",
+            "label": "playAgainBtn",
+            "scope": "CLASS",
+            "x": 540,
+            "y": 1710,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "TAP TO PLAY AGAIN",
+            "fontFamily": "RifficFree-Bold",
+            "fontSize": "50px"
+        },
+        {
+            "type": "Text",
+            "id": "a8b49881-ccce-497a-9718-64e16aad6f3c",
+            "label": "text_1",
+            "x": 430,
+            "y": 1474,
+            "text": "BEST :",
+            "fontFamily": "RifficFree-Bold",
+            "fontSize": "50px"
+        },
+        {
+            "type": "Text",
+            "id": "199f0870-4b7f-4300-8959-c927df7a29d6",
+            "label": "bestScore",
+            "scope": "CLASS",
+            "x": 609,
+            "y": 1502.79443359375,
+            "originY": 0.5,
+            "text": "0",
+            "fontFamily": "RifficFree-Bold",
+            "fontSize": "50px"
+        },
+        {
+            "type": "Text",
+            "id": "e55c613b-7ff6-4021-bf84-513ed7b9117e",
+            "label": "text_3",
+            "x": 401,
+            "y": 1575,
+            "text": "SCORE :",
+            "fontFamily": "RifficFree-Bold",
+            "fontSize": "50px"
+        },
+        {
+            "type": "Text",
+            "id": "58688c1f-a1db-482a-9e16-18460b78d2c9",
+            "label": "score",
+            "scope": "CLASS",
+            "x": 627,
+            "y": 1601.79443359375,
+            "originY": 0.5,
+            "text": "0",
+            "fontFamily": "RifficFree-Bold",
+            "fontSize": "50px"
+        },
+        {
+            "type": "Image",
+            "id": "02c14c00-ce30-4324-a5f7-f3cc5f4bc0cc",
+            "label": "game_Over",
+            "texture": {
+                "key": "Game-Over"
+            },
+            "x": 540,
+            "y": 794
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

@@ -1,0 +1,56 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="icon" type="image/x-icon" href="./assets/images/logo/Logo.png">
+	<link rel="stylesheet preload" as="font" href="assets/fonts/Chalkboard.ttc" type="font/ttc" crossorigin />
+	<link rel="stylesheet preload" as="font" href="assets/fonts/Futura.ttc" type="font/ttc" crossorigin />
+	<link rel="stylesheet preload" as="font" href="assets/fonts/RifficFree-Bold.ttf" type="font/ttf" crossorigin />
+	
+	<title>Jet Jumper</title>
+
+	<script src="lib/phaser.min.js"></script>
+	<script src="src/components/UserComponent.js"></script>
+	<script src="src/script-nodes-basic-js/ScriptNode.js"></script>
+	<script src="src/script-nodes-basic-js/OnEventScript.js"></script>
+	<script src="src/script-nodes-basic-js/OnPointerDownScript.js"></script>
+	<script src="src/script-nodes-basic-js/CallbackActionScript.js"></script>
+	<script src="src/script-nodes/PushActionScript.js"></script>
+	<script src="src/script-nodes/PreloadBarUpdaterScript.js"></script>
+	<script src="src/scenes/Preload.js"></script>
+	<script src="src/scenes/Home.js"></script>
+	<script src="src/scenes/GamePlayScene.js"></script>
+	<script src="src/scenes/GameOver.js"></script>
+	<script src="src/main.js"></script>
+
+	<style>
+		@font-face {
+			font-family: 'RifficFree-Bold';
+			/* src: url('assets/fonts/Chalkboard.ttc');
+			src: url('assets/fonts/Futura.ttc'); */
+			src: url('assets/fonts/RifficFree-Bold.ttf');
+		}
+		body {
+			background-image: url('./assets/images/Background-2.png');
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+		}
+		.overlay { position:fixed; top:0; left:0; width:100vw; height:100vh; }
+		.overlay:after { position:absolute; top:0; left:calc(50% + 249px); background:rgba(0, 0, 0, 0.3); content:''; width:50vw; height:100vh  }
+		.overlay:before { position:absolute; top:0; right:calc(50% + 249px); background:rgba(0, 0, 0, 0.3); content:''; width:50vw; height:100vh  }
+		canvas { position:relative; z-index:999; }
+	</style>
+	<div class="overlay"></div>
+
+</head>
+
+<body>
+</body>
+
+</html>

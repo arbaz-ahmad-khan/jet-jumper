@@ -1,0 +1,123 @@
+{
+    "anims": [
+        {
+            "key": "fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fire-1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fire-2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fire-3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fire-4",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fire-5",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fire-6",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fire-7",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fire-8",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "blast",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "jet-1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "jet-2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "jet-3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "jet-4",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "jet-5",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "jet-6",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "jet-7",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "jet-8",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "jet-9",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "jet-10",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 8,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

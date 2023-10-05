@@ -1,0 +1,188 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/animations/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": "assets/images/gamePlay/Cluster-1.png",
+                "type": "image",
+                "key": "Cluster-1"
+            },
+            {
+                "url": "assets/images/gamePlay/Cluster-2.png",
+                "type": "image",
+                "key": "Cluster-2"
+            },
+            {
+                "url": "assets/images/gamePlay/Cluster-3.png",
+                "type": "image",
+                "key": "Cluster-3"
+            },
+            {
+                "url": "assets/images/gamePlay/Cluster-4.png",
+                "type": "image",
+                "key": "Cluster-4"
+            },
+            {
+                "url": "assets/images/gamePlay/Cluster-5.png",
+                "type": "image",
+                "key": "Cluster-5"
+            },
+            {
+                "url": "assets/images/gamePlay/Cluster-6.png",
+                "type": "image",
+                "key": "Cluster-6"
+            },
+            {
+                "url": "assets/images/gamePlay/Cluster-7.png",
+                "type": "image",
+                "key": "Cluster-7"
+            },
+            {
+                "url": "assets/images/gamePlay/Cluster-8.png",
+                "type": "image",
+                "key": "Cluster-8"
+            },
+            {
+                "url": "assets/images/animations/fire-1.png",
+                "type": "image",
+                "key": "fire-1"
+            },
+            {
+                "url": "assets/images/animations/fire-2.png",
+                "type": "image",
+                "key": "fire-2"
+            },
+            {
+                "url": "assets/images/animations/fire-3.png",
+                "type": "image",
+                "key": "fire-3"
+            },
+            {
+                "url": "assets/images/animations/fire-4.png",
+                "type": "image",
+                "key": "fire-4"
+            },
+            {
+                "url": "assets/images/animations/fire-5.png",
+                "type": "image",
+                "key": "fire-5"
+            },
+            {
+                "url": "assets/images/animations/fire-6.png",
+                "type": "image",
+                "key": "fire-6"
+            },
+            {
+                "url": "assets/images/animations/fire-7.png",
+                "type": "image",
+                "key": "fire-7"
+            },
+            {
+                "url": "assets/images/animations/fire-8.png",
+                "type": "image",
+                "key": "fire-8"
+            },
+            {
+                "url": "assets/images/gameOver/Game-Over.png",
+                "type": "image",
+                "key": "Game-Over"
+            },
+            {
+                "url": "assets/images/animations/jet-1.png",
+                "type": "image",
+                "key": "jet-1"
+            },
+            {
+                "url": "assets/images/animations/jet-10.png",
+                "type": "image",
+                "key": "jet-10"
+            },
+            {
+                "url": "assets/images/animations/jet-2.png",
+                "type": "image",
+                "key": "jet-2"
+            },
+            {
+                "url": "assets/images/animations/jet-3.png",
+                "type": "image",
+                "key": "jet-3"
+            },
+            {
+                "url": "assets/images/animations/jet-4.png",
+                "type": "image",
+                "key": "jet-4"
+            },
+            {
+                "url": "assets/images/animations/jet-5.png",
+                "type": "image",
+                "key": "jet-5"
+            },
+            {
+                "url": "assets/images/animations/jet-6.png",
+                "type": "image",
+                "key": "jet-6"
+            },
+            {
+                "url": "assets/images/animations/jet-7.png",
+                "type": "image",
+                "key": "jet-7"
+            },
+            {
+                "url": "assets/images/animations/jet-8.png",
+                "type": "image",
+                "key": "jet-8"
+            },
+            {
+                "url": "assets/images/animations/jet-9.png",
+                "type": "image",
+                "key": "jet-9"
+            },
+            {
+                "url": "assets/images/logo/Logo.png",
+                "type": "image",
+                "key": "Logo"
+            },
+            {
+                "url": "assets/images/particles/redDot.png",
+                "type": "image",
+                "key": "redDot"
+            },
+            {
+                "url": "assets/images/gamePlay/Rocket.png",
+                "type": "image",
+                "key": "Rocket"
+            },
+            {
+                "url": "assets/images/Rocket.png",
+                "type": "image",
+                "key": "Rocket_1"
+            },
+            {
+                "url": "assets/images/gamePlay/score-board.png",
+                "type": "image",
+                "key": "score-board"
+            },
+            {
+                "url": "src/prefabs/ScorePrefab.js",
+                "type": "script",
+                "key": "ScorePrefab"
+            },
+            {
+                "url": "assets/images/gameOver/Star.png",
+                "type": "image",
+                "key": "Star"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
